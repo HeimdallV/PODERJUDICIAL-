@@ -1,0 +1,14 @@
+HTTrack3.49-1+htsswf+htsjava launched on Thu, 09 Jan 2025 17:24:41 at https://www.csj.gov.py/informesjudiciales/verificador.aspx?code=38749404J +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.csj.gov.py/informesjudiciales/verificador.aspx?code=38749404J -O1 "C:\Users\donal\OneDrive\Documentos\informesjudiciales" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:25:08	Error: 	"Not Found" (404) at link https://www.csj.gov.py/informesjudiciales/Content/assets/css/img/social-sprites.png (from https://www.csj.gov.py/informesjudiciales/Content/assets/css/web/main.css)
+17:25:08	Error: 	"Not Found" (404) at link https://www.csj.gov.py/informesjudiciales/Content/assets/css/web/assets/ (from https://www.csj.gov.py/informesjudiciales/Content/assets/css/web/main.css)
+17:25:38	Error: 	"Not Found" (404) at link https://www.csj.gov.py/informesjudiciales/POST (from https://www.csj.gov.py/informesjudiciales/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZLjYUeyW-LEOG_qdWv29amsdQbuJL1s0K_qTMtyn4nHwn99D-A_nu-U76Bid-oQL7Q2&t=638568460371266408)
+
+HTTrack Website Copier/3.49-1 mirror complete in 57 seconds : 179 links scanned, 175 files written (5473110 bytes overall) [4233778 bytes received at 74276 bytes/sec], 1672609 bytes transferred using HTTP compression in 58 files, ratio 22%
+(3 errors, 0 warnings, 0 messages)
